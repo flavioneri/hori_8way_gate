@@ -1,8 +1,11 @@
 # Hori Fighting Stick MINI 4 for PS4 8 way gate
 
-This project is a homebrew hardware designed to replace the original Hori 4 way gate for a 8 way gate.
+This project is a homebrew hardware designed with [ThinkerCAD](https://www.tinkercad.com) and [Inkscape](https://inkscape.org/) to replace the original Hori 4 way gate for a 8 way gate.
+
+This should be printed by a 3d printer and I'll support both **STL** and **OBJ** formats.
 
 I tested this with my own stick and it seems that worked well.
+
 
 **Use this project at your own risk!**
 
@@ -10,8 +13,14 @@ I tested this with my own stick and it seems that worked well.
 
 PT_PT ---
 
-Este projeto é um *homebrew* desenhado para substituir o *gate* original de 4 via do Hori por um de 8 vias.
+
+Este projeto é um *homebrew* desenhado com o [ThinkerCAD](https://www.tinkercad.com) e o [Inkscape](https://inkscape.org/) para substituir o *gate* original de 4 via do Hori por um de 8 vias.
+
+Para usar este projeto você deve imprimir um dos arquivos disponíveis em uma impressora 3d. Quaisquer atualizações suportarão os formatos **STL** e **OBJ**.
+
+
 Seus Shoryuken agradecem. :-)
+
 
 Eu testei este gate no meu controle e ele funcionou corretamente.
 
