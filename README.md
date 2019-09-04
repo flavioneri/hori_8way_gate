@@ -8,7 +8,7 @@ This project is a homebrew hardware designed with [ThinkerCAD](https://www.tinke
 
 This should be printed by a 3d printer and I'll support both **STL** and **OBJ** formats.
 
-I tested this with my own stick and it seems that worked well.
+I tested this with my own stick and it seems that it worked well.
 
 ## Screenshots from the files:
 
